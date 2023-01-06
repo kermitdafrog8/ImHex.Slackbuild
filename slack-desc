@@ -6,12 +6,12 @@
 # customary to leave one space after the ':' except on otherwise blank lines.
 
      |-----handy-ruler------------------------------------------------------|
-ImHex: ImHex ()
+ImHex: ImHex (A Hex Editor for Reverse Engineers and Programmers)
+ImHex:
 ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value 
 ImHex: their retinas when working at 3 AM.
 ImHex:
 ImHex: https://imhex.werwolv.net/
-ImHex:
 ImHex:
 ImHex:
 ImHex:
